@@ -2,4 +2,4 @@
 
 Explore elf files with my tool
 
-![torvalds](image.jpg)
+![torvalds](image.png)
